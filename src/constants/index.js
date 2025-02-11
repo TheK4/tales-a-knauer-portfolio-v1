@@ -19,7 +19,7 @@ export const EXPERIENCES = [
   },
   {
     year: "2023 - 2024",
-    role: "Analista de Cadastro",
+    role: "Codificador de Dados",
     company: "CH Master Data",
     description: `Trabalhei em estreita colaboração com desenvolvedores, auditores e gestores de dados brutos para implementar organização e padronização na grande quantidade de dados inseridos no sistema da empresa.`,
     technologies: ["WebForMat", "Banco de Dados"],
