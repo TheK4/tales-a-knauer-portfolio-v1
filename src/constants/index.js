@@ -73,6 +73,14 @@ export const PROJECTS = [
     technologies: ["React", "NodeJS", "TypeScript", "Express", "MongoDB"],
     url:"#",
   },
+  {
+    title: "EduThek (Pré finalização)",
+    image: desenvolvimento,
+    description:
+      "Plataforma de Cursos em desenvolvimento, com visual Intuitivo e profissional, contendo animações e diversas interações, com o foco de ser uma plataforma de ensino",
+    technologies: ["React", "TypeScript", "TailwindCss", "Framer Motion"],
+    url:"https://landing-page-edu-thek-zrco.vercel.app/",
+  },
 ];
 
 export const CONTACT = {

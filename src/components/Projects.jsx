@@ -27,6 +27,7 @@ const Projects = () => {
                         ))}
                         <a className='ml-10 rounded bg-neutral-800 px-2 py-1 text-sm font-medium text-neutral-100' href={project.url} target="_blank" rel="noopener noreferrer">Abrir Projeto</a>
                     </motion.div>
+                    
                 </div>
             ))}
         </div>
